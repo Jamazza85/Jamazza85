@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jamazza85 (Juan Angel Mazza)
 - 👀 I’m interested in herramientas de desrrollo, programción y desrrollo front-end
-- 🌱 I’m currently learning UTN / Argentina Programa / Ticmas / Codo a Codo
+- 🌱 I’m currently learning UTN / MaxiPrograma / Argentina Programa / Ticmas / Codo a Codo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me juan.angel.mazza@gmail.com
 
